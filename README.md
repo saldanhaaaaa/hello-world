@@ -1,7 +1,8 @@
 # hello-world
 Atividade do Seminário de Introdução ao BTI - GitHub Hello World
+
 ## Sobre mim
-Olá! Estou cursando o Bacharelado em Tecnologia da Informação (BTI) e este é meu primeiro repositório no GitHub.
+Olá! Meu nome é Gabriel Saldanha Correia de Sousa, estou cursando o Bacharelado em Tecnologia da Informação (BTI) e este é meu primeiro repositório no GitHub.
 
 ## O que aprendi nesta atividade
 - **Repositório:** a pasta do projeto, com os arquivos e todo o histórico de mudanças.
